@@ -7,11 +7,10 @@ clc;
 close all;
 clear;
 
-%datapath = 'Demo/';
-datapath = 'Subject5/';
+datapath = 'S1/';
 
 
-BGFileName='BG3';
+BGFileName='BG';
 BG_File=fullfile([BGFileName,'.MOV']);
 
 %*****************************************************************************************************************
