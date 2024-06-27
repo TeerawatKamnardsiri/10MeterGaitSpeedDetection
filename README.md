@@ -38,6 +38,6 @@ git clone https://github.com/TeerawatKamnardsiri/10MeterGaitSpeedDetection.git
 This project is licensed under the College of Arts, Media and Technology, Chiang Mai University License.
 
 ## Contact
-•	Name: Asst. Prof. Dr. Teerawat Kamnardsiri
-•	Email: teerawat.k@cmu.ac.th
-•	GitHub: https://github.com/TeerawatKamnardsiri/10MeterGaitSpeedDetection.git
+* Name: Asst. Prof. Dr. Teerawat Kamnardsiri
+*	Email: teerawat.k@cmu.ac.th
+*	GitHub: https://github.com/TeerawatKamnardsiri/10MeterGaitSpeedDetection.git
